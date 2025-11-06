@@ -1,37 +1,72 @@
-## Faaaala dev, Renan Aqui!
+<h1 align="center">👋 Olá, eu sou o Renan Rego</h1>
 
-<div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=renannevesr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renannevesr&layout=compact&langs_count=16&theme=tokyonight"/><!--
-  <a href="https://github.com/renannevesr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renannevesr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renannevesr&layout=compact&langs_count=7&theme=tokyonight"/>-->
+<p align="center">
+  💻 Desenvolvedor Back-end & Engenheiro de Dados <br/>
+  🚀 Apaixonado por tecnologia, automação e soluções inteligentes
+</p>
+
+---
+
+### 🧠 Sobre mim
+
+Sou desenvolvedor com experiência em **Back-end, APIs e Engenharia de Dados**.  
+Atuo na construção de **sistemas escaláveis**, **integrações seguras** e **pipelines de dados eficientes**.  
+Tenho formação em **Direito**, mas encontrei na **tecnologia** meu verdadeiro caminho — unindo lógica, precisão e criatividade para resolver problemas complexos.
+
+---
+
+### ⚙️ Tecnologias & Ferramentas
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![AdonisJS](https://img.shields.io/badge/AdonisJS-220052?style=for-the-badge&logo=adonisjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 </div>
-<br>
 
-<div  align="center"> 
-  <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
-    <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg">
-    <img align="center" height="30" width="40" alt="flask-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-    <img align="center" height="30" width="40" alt="python-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-    <img align="center" height="30" width="40" alt="mysql-plain" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-   </div>
-    
-  
-  <h1 align="center">Redes Sociais</h1>
-     <a href="https://www.instagram.com/renannevesr/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/renan-rego-b38823bb/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+---
+
+### 🧩 Áreas de Interesse
+
+- Desenvolvimento **Back-end** com **APIs RESTful**
+- **Engenharia de Dados** e automação de processos
+- **Machine Learning** aplicado a dados reais
+- **Deploy** e **infraestrutura na AWS**
+- **Boas práticas de código** e **documentação limpa**
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![Renan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=renannevesr&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renannevesr&layout=compact&theme=tokyonight)
+
 </div>
-  
-![Snake animation](https://github.com/renannevesr/renannevesr/blob/output/github-contribution-grid-snake.svg)
 
-  
-  ##
+---
 
- 
+### 🌐 Conecte-se comigo
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/renan-rego-b38823bb/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:renannevesr@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<p align="center">
+  🚧 Sempre aprendendo, evoluindo e construindo novas ideias.
+</p>
+
